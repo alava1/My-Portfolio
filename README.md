@@ -1,20 +1,18 @@
 Cyber Security Portfolio – Lawal Yunus
 
-About Me
+## About Me
 
 I am an aspiring Cyber Security professional with a background in Information Technology, software development, and system support. I am currently completing a Bachelor of Computer Applications (BCA), where I have built foundational knowledge in networking, operating systems, databases, programming, and information security concepts. My interest in cyber security is focused on understanding how systems are attacked, how vulnerabilities are identified, and how security controls can be applied to protect digital assets and infrastructure.
 
 This portfolio showcases my cyber security learning journey through practical labs, hands-on projects, security reports, and technical documentation. It highlights my growing skills in vulnerability assessment, traffic analysis, web application security testing, system hardening, and security monitoring. I am actively building toward entry-level roles such as Cyber Security Analyst, SOC Analyst, Vulnerability Assessment Analyst, and Junior Penetration Tester.
 
----
 
-Career Objective
+## Career Objective
 
 To begin a career in cyber security by applying my technical foundation in IT, software, and systems to real-world security challenges. I aim to contribute to security operations, vulnerability management, threat detection, and secure system practices while continuously improving my practical skills through projects, labs, and industry learning.
 
----
 
-Core Cyber Security Skills
+## Core Cyber Security Skills
 
 - Vulnerability Assessment
 - Security Monitoring
@@ -27,9 +25,8 @@ Core Cyber Security Skills
 - Reconnaissance and Enumeration
 - Security Awareness and Best Practices
 
----
 
-Technical Skills
+## Technical Skills
 
 Security Tools & Concepts
 
@@ -61,9 +58,8 @@ Programming & Technical Background
 - Git / GitHub
 - Basic troubleshooting and technical support
 
----
 
-Portfolio Projects
+## Portfolio Projects
 
 1. Network Traffic Analysis
 
@@ -76,7 +72,6 @@ Skills demonstrated
 - Traffic investigation
 - Security observation and reporting
 
----
 
 2. Vulnerability Assessment Lab
 
@@ -103,7 +98,6 @@ Skills demonstrated
 - Vulnerability identification
 - Security reporting
 
----
 
 4. Linux Hardening Project
 
@@ -116,7 +110,6 @@ Skills demonstrated
 - Access control awareness
 - System configuration review
 
----
 
 5. SIEM and Log Analysis
 
@@ -129,9 +122,8 @@ Skills demonstrated
 - Monitoring concepts
 - Security investigation basics
 
----
 
-Learning and Lab Focus
+## Learning and Lab Focus
 
 As part of my cyber security development, I continue to strengthen my skills through guided labs, project-based learning, and security-focused practice environments. My learning areas include:
 
@@ -142,9 +134,8 @@ As part of my cyber security development, I continue to strengthen my skills thr
 - SIEM and monitoring concepts
 - Security documentation and reporting
 
----
 
-Certifications and Continuous Learning
+## Certifications and Continuous Learning
 
 I am actively building my cyber security knowledge through self-study, online learning, and hands-on practice. This section of the portfolio is intended to showcase certificates, completed labs, and additional security learning milestones as I continue to grow in the field.
 
@@ -156,9 +147,8 @@ Examples of learning areas and certifications to include:
 - Security operations and monitoring concepts
 - Hands-on lab completion certificates
 
----
 
-Education
+## Education
 
 Bachelor of Computer Applications (BCA)
 Hindustan Institute of Technology and Science
@@ -174,9 +164,9 @@ Relevant academic foundation
 - Software Development Concepts
 - Information Technology Foundations
 
----
 
-What This Portfolio Contains
+
+## What This Portfolio Contains
 
 This GitHub portfolio is structured to present both my cyber security projects and supporting materials. It includes:
 
@@ -187,9 +177,7 @@ This GitHub portfolio is structured to present both my cyber security projects a
 - Certifications and learning records
 - Resume and career documents
 
----
-
-Target Roles
+## Target Roles
 
 I am currently building my portfolio for entry-level opportunities such as:
 
@@ -200,9 +188,8 @@ I am currently building my portfolio for entry-level opportunities such as:
 - IT Security Analyst
 - Security Support / Technical Security Roles
 
----
 
-Professional Strengths
+## Professional Strengths
 
 - Strong willingness to learn and adapt to new technologies
 - Foundation in IT, software, and technical troubleshooting
@@ -211,17 +198,14 @@ Professional Strengths
 - Interest in both defensive security and vulnerability-focused work
 - Motivation to build real-world security skills through continuous hands-on practice
 
----
 
-Contact
+## Contact
 
-- Name: Lawal Yunus
-- GitHub: Add your GitHub profile link here
-- LinkedIn: Add your LinkedIn link here
-- Email: Add your professional email here
+- Name: Lawal Yunusa
+- LinkedIn: https://www.linkedin.com/in/lawal-yunusa-577457264?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Email: lawalyunus40@gmail.com
 
----
 
-Portfolio Note
+## Portfolio Note
 
 This portfolio is a growing collection of my cyber security work, practical exercises, and technical learning. As I continue to complete new projects, labs, and certifications, I will update this repository to reflect my progress and strengthen my readiness for professional cyber security opportunities.
