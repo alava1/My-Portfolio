@@ -1,21 +1,21 @@
-SIEM and Log Analysis
+## SIEM and Log Analysis
 
-Project Overview
+## Project Overview
 
 This project focuses on reviewing logs and security-related events to understand how monitoring supports cyber security operations. The goal of the project is to build practical awareness of how suspicious activity can be identified through log review, event analysis, and basic monitoring concepts commonly used in Security Operations Center (SOC) environments.
 
-Objective
+## Objective
 
 The objective of this project is to examine system or application logs in a lab setting, identify notable events such as failed logins, unusual access patterns, or suspicious behavior, and document findings in a structured way. This project is intended to strengthen entry-level skills in monitoring, event review, and security investigation.
 
-Tools Used
+## Tools Used
 
 - Splunk or SIEM lab environment (if available)
 - Sample log files
 - Linux / Windows event logs
 - Basic text or log analysis tools
 
-Activities Performed
+## Activities Performed
 
 - Reviewed sample logs and event records
 - Observed patterns such as login failures, repeated access attempts, or unusual activity
@@ -23,7 +23,7 @@ Activities Performed
 - Practiced identifying which events may require security attention
 - Documented observations and monitoring-related insights
 
-Skills Demonstrated
+## Skills Demonstrated
 
 - Log analysis
 - Security monitoring awareness
@@ -31,11 +31,11 @@ Skills Demonstrated
 - Basic SOC investigation mindset
 - Documentation of findings
 
-Learning Outcome
+## Learning Outcome
 
 This project improved my understanding of how logs can be used to detect and investigate suspicious behavior. It also helped me appreciate the importance of visibility, event correlation, and careful review in security monitoring and incident detection.
 
-Future Improvements
+## Future Improvements
 
 As I continue developing this project, I plan to:
 
