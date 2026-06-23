@@ -1,21 +1,21 @@
-Linux Hardening Project
+## Linux Hardening Project
 
-Project Overview
+## Project Overview
 
 This project focuses on improving the security posture of a Linux system through basic hardening practices in a controlled lab environment. The purpose of the project is to understand how system configuration, service management, access control, and security settings can be used to reduce exposure and improve overall system security.
 
-Objective
+## Objective
 
 The objective of this project is to apply practical Linux hardening measures to a test environment in order to strengthen security, reduce unnecessary exposure, and improve awareness of secure system administration practices.
 
-Tools Used
+## Tools Used
 
 - Linux command line
 - Kali Linux / Ubuntu / other Linux lab environment
 - Basic firewall and user management tools
 - System configuration files
 
-Activities Performed
+## Activities Performed
 
 - Reviewed running services and identified unnecessary services
 - Examined user accounts and access permissions
@@ -24,7 +24,7 @@ Activities Performed
 - Strengthened system access practices where appropriate
 - Documented hardening actions and observations
 
-Skills Demonstrated
+## Skills Demonstrated
 
 - Linux system administration fundamentals
 - Security hardening awareness
@@ -32,11 +32,11 @@ Skills Demonstrated
 - Service and access management
 - Security documentation and reporting
 
-Learning Outcome
+## Learning Outcome
 
 This project improved my understanding of how Linux systems can be secured through configuration review, access control, and reduction of unnecessary exposure. It also strengthened my confidence in using Linux administration concepts in a security-focused context.
 
-Future Improvements
+## Future Improvements
 
 As I continue developing this project, I plan to:
 
